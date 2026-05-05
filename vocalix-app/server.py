@@ -15,8 +15,8 @@ app = FastAPI(title="Vocalix API")
 app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"],allow_credentials=True)
 
 # ── Config ────────────────────────────────────────────────────────────────────
-MOSS_GRADIO_URL = "gradio-link"  # Update this each Kaggle session
-SECRET_KEY = "vocalix-secret-key"
+MOSS_GRADIO_URL = "https://88dc2a87b5fbb7ba20.gradio.live"  # Update this each Kaggle session
+SECRET_KEY = "vocalix-secret-key-change-in-production"
 VOICE_SAMPLES_DIR = Path("voice_samples")
 VOICE_SAMPLES_DIR.mkdir(exist_ok=True)
 
@@ -406,5 +406,4 @@ def root():
     return {"message": "Vocalix API running ✅"}
 
 if __name__ == "__main__":
-
     uvicorn.run("server:app", host="0.0.0.0", port=8000, reload=True)
