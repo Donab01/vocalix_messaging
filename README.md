@@ -51,9 +51,7 @@ Over **1.5 billion people worldwide** live with speech or language disabilities.
 > 📸 **Screenshots and demo coming soon.** Star this repo to get notified when the live demo is deployed.
 
 
-📹 **Video Walkthrough:** (https://drive.google.
-com/file/d/1o4ZtU hL9jmNcsIVaJatLku4IgqX296z/view?
-usp=drive link)
+📹 **Video Walkthrough:** (https://drive.google.com/file/d/1o4ZtU hL9jmNcsIVaJatLku4IgqX296z/view?usp=drive link)
 
 ---
 
@@ -79,10 +77,8 @@ usp=drive link)
 
 ### Frontend
 - **[React.js 18](https://react.dev)** — UI framework
-- **JavaScript (ES6+)** — Frontend logic
 
 ### Infrastructure
-- **REST API** — Client-server communication
 - **Hugging Face Spaces** *(planned)* — Model hosting and deployment
 
 ---
@@ -170,7 +166,7 @@ git push origin feature/your-feature-name
 **Dona Babu**  
 AI/ML Engineer · CS Student @ MITS, Kerala  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/dona-babu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/dona--babu)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/Donab01)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:donababu02@gmail.com)
 
