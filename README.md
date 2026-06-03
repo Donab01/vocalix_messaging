@@ -8,7 +8,6 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/React-18+-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat)]()
 
 [Features](#-features) • [Demo](#-demo)  • [Getting Started](#-getting-started) 
