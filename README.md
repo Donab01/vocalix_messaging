@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat)]()
 
-[Features](#-features) • [Demo](#-demo) • [Architecture](#-architecture) • [Getting Started](#-getting-started) • [Tech Stack](#-tech-stack) • [Roadmap](#-roadmap)
+[Features](#-features) • [Demo](#-demo)  • [Getting Started](#-getting-started) 
 
 ---
 
@@ -51,7 +51,7 @@ Over **1.5 billion people worldwide** live with speech or language disabilities.
 > 📸 **Screenshots and demo coming soon.** Star this repo to get notified when the live demo is deployed.
 
 
-📹 **Video Walkthrough:** (https://drive.google.com/file/d/1o4ZtU hL9jmNcsIVaJatLku4IgqX296z/view?usp=drive link)
+📹 **Video Walkthrough:** (https://drive.google.com/file/d/1o4ZtUhL9jmNcsIVaJatLku4IgqX296z/view?usp=drivelink)
 
 ---
 
