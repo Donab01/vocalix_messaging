@@ -163,7 +163,7 @@ git push origin feature/your-feature-name
 ## 👩‍💻 Author
 
 **Dona Babu**  
-AI/ML Engineer · CS Student @ MITS, Kerala  
+AI/ML Engineer · CSE(AI) Student @ MITS, Kerala  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/dona--babu)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/Donab01)
